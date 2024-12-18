@@ -1,0 +1,5 @@
+Salut Doudouille, toi qui est dans l'equipe de Gribouille.
+Inverse la liste des enfants.
+Les cadeaux et les enfants seront inverses.
+
+M. Grinch
